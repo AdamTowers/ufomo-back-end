@@ -8,9 +8,9 @@ class Api::V1::ScoresController < ApplicationController
   def create
     @score = Score.create(score_params)
     if @score.save
-      render json: @score, status: :created, location: @score
+      render json: @score
     else
-      render json: @score.errors, status: :unprocessable_entity
+      render json: @score.errors
     end
   end
 
