@@ -1,24 +1,21 @@
-# README
+## UFOMO (backend)
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+<hr>
 
-Things you may want to cover:
+After years of drifting alone in the galaxy, wouldn't you get lonely? Follow this lonely alien and his quest to make a friend. Use the arrow keys to control your friend to maneuver around potential harmful obstacles. Make sure he gets to your ship safely!
 
-* Ruby version
+The goal was to create a single page application using Javascript to handle the UX. For the graphics, we used an 8-bit picture editor, and we integrated Ruby on Rails to handle new users and their high scores.
 
-* System dependencies
+## Concerns and Issues
 
-* Configuration
+* Addition of game progression and levels
+* Would like to add new obstacles
+* Refactoring and cleaning up of code
 
-* Database creation
+## Video Demo
 
-* Database initialization
+Click [here](https://www.youtube.com/watch?v=I0hwrVA2Y9w&feature=youtu.be) for a video demonstration of the project.
 
-* How to run the test suite
+### Contributors Guide
 
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+We are not taking contributions at this time.
